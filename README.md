@@ -62,8 +62,8 @@
 ---
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=shalom&show_icons=true&hide_title=true&count_private=true&hide_border=true" alt="shalom" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shalom&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html&hide_border=true" alt="shalom" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalom&show_icons=true&hide_title=true&count_private=true&hide_border=true" alt="shalom" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shalom&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html&hide_border=true" alt="shalom" /> -->
 </p>
 ### 📣 Connect With Me:
 - LinkedIn: [Shalom Hosheya](https://www.linkedin.com/in/shalom-hosheya-1a19a42ab/)
