@@ -2,7 +2,8 @@
 
 ## Undergraduate Software Engineer
 
-![Profile Illustration](profile-image.png)
+![Profile Illustration](https://example.com/path/to/profile-image.png)
+
 
 ### Connect With Me
 
