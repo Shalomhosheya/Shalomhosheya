@@ -2,7 +2,7 @@
 
 ## Undergraduate Software Engineer
 
-![Profile Illustration](assets/image1.jpg)
+![Profile Illustration](assets/image2.jpg)
 
 
 
