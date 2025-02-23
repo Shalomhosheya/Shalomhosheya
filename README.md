@@ -8,7 +8,7 @@
 
 ### Connect With Me
 
-[![LinkedIn](linkedin-icon.png)](https://linkedin.com)
+[![LinkedIn](linkedin-icon.png)]([https://linkedin.com](https://www.linkedin.com/in/shalom-hosheya-1a19a42ab/))
 [![Medium](medium-icon.png)](https://medium.com)
 [![Gmail](gmail-icon.png)](mailto:example@gmail.com)
 [![Twitter](twitter-icon.png)](https://twitter.com)
