@@ -2,7 +2,8 @@
 
 ## Undergraduate Software Engineer
 
-![Profile Illustration](assets/profile-image.png)
+![Profile Illustration](https://raw.githubusercontent.com/your-username/your-repo/main/assets/profile-image.png)
+
 
 
 
