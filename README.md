@@ -1,73 +1,36 @@
-<h1 align="center">Hi 👋, I'm Shalom Hosheya</h1>
-<h3 align="center">A passionate Software Engineering student at the Institute of Software Engineering</h3>
+# Shalom Hosheya
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shalom" alt="shalom" />
-  </a>
-</p>
+## Undergraduate Software Engineer
 
----
+![Profile Illustration](profile-image.png)
 
-### 🚀 About Me:
-- 🔭 **Current Focus:** Building **Web Applications** 🚀
-- 🌱 **Learning:** Java, JavaScript, HTML, CSS, and more!
-- 👯 **Collaboration:** Open to working on **application projects** with talented developers
-- 🤝 **Seeking Help With:** Group projects and collaborative coding challenges
-- 📫 **Reach Out:** [LinkedIn](https://www.linkedin.com/in/shalom-hosheya-1a19a42ab/)
-- ⚡ **Fun Fact:** **Coding** is my superpower! 💻
+### Connect With Me
 
----
+[![LinkedIn](linkedin-icon.png)](https://linkedin.com)
+[![Medium](medium-icon.png)](https://medium.com)
+[![Gmail](gmail-icon.png)](mailto:example@gmail.com)
+[![Twitter](twitter-icon.png)](https://twitter.com)
+[![Discord](discord-icon.png)](https://discord.com)
+[![Telegram](telegram-icon.png)](https://telegram.com)
 
-### 💻 Skills & Technologies:
-#### Languages & Frameworks:
-- <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+### Techs
 
-#### Database & Tools:
-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a>
-- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
+![JavaScript](js-icon.png) ![TypeScript](ts-icon.png) ![C#](csharp-icon.png) ![HTML](html-icon.png) ![CSS](css-icon.png) ![React](react-icon.png) ![Node.js](nodejs-icon.png)
 
-#### Design & Development Tools:
-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</a>
-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a>
-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</a>
-- <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-</a>
+### Tools
 
----
+![Git](git-icon.png) ![Docker](docker-icon.png) ![Linux](linux-icon.png)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalom&show_icons=true&hide_title=true&count_private=true&hide_border=true&include_all_commits=true" alt="shalom" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shalom&show_icons=true&locale=en&layout=compact&langs_count=6&hide_border=true" alt="shalom" />
-</p>
+### Most Used Languages
 
-### 📣 Connect With Me:
-- LinkedIn: [Shalom Hosheya](https://www.linkedin.com/in/shalom-hosheya-1a19a42ab/)
-- GitHub: [Shalom's GitHub](https://github.com/shalom)
+- **C++**: 58%
+- **JavaScript**: 19.3%
+- **C#**: 14%
+- **Other**: 8.7%
 
-Thanks for visiting my profile! 👨‍💻 Feel free to reach out or collaborate on exciting projects. 😊
+### GitHub Stats
+
+- **Total Contributions**: 913
+- **Repositories**: 21
+
+![GitHub Contribution Graph](github-contribution.png)
