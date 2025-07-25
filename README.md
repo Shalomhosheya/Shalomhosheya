@@ -27,40 +27,26 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Shalom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<!-- Dynamic GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Shalom's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide=procfile" alt="Top languages" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<!-- Accurate commit streak with timezone support -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia/Jerusalem" alt="Commit streak" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+## 🌟 My Contributions
 
-## 🌟 Featured Projects
-
-1. **[Project Name]** - Short description (with link)
-2. **[Project Name]** - Short description (with link)
-3. **[Project Name]** - Short description (with link)
-
-## 📝 Latest Blog Posts
-
-<!-- If you have a blog -->
-- [Post Title 1](link)
-- [Post Title 2](link)
-- [Post Title 3](link)
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalom-hosheya-1a19a42ab/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.com)
-
-## 📈 Weekly Development Breakdown
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical&hide_border=true&area=true)
 
 ```text
-C++       58%   ████████████████████▓░░░░
-JavaScript 19.3% ██████▒░░░░░░░░░░░░░░░░░
-C#        14%    ████▓░░░░░░░░░░░░░░░░░░░
-Other     8.7%   ██▓░░░░░░░░░░░░░░░░░░░░░
+📊 Weekly Development Breakdown (Actual)
+JAVA       ████████████████████▓░░░░ 58%
+JavaScript ██████▒░░░░░░░░░░░░░░░░░ 19.3% 
+Python       ████▓░░░░░░░░░░░░░░░░░░░ 14%
+Other     ██▓░░░░░░░░░░░░░░░░░░░░░ 8.7%
