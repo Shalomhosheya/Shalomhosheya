@@ -42,7 +42,7 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 
 ## 🌟 My Contributions
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomhosheya&theme=redical&hide_border=true&area=true)
 
 ```text
 📊 Weekly Development Breakdown (Actual)
