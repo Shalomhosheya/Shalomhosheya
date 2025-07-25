@@ -44,9 +44,3 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomhosheya&theme=redical&hide_border=true&area=true)
 
-```text
-📊 Weekly Development Breakdown (Actual)
-JAVA       ████████████████████▓░░░░ 58%
-JavaScript ██████▒░░░░░░░░░░░░░░░░░ 19.3% 
-Python       ████▓░░░░░░░░░░░░░░░░░░░ 14%
-Other     ██▓░░░░░░░░░░░░░░░░░░░░░ 8.7%
