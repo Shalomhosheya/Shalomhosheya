@@ -2,7 +2,7 @@
 
 **Undergraduate Software Engineer** | Passionate about Full-Stack Development & Open Source
 
-![Profile Banner](assets/image2.jpg)
+![Profile Banner](assets/image_4.jpg)
 
 ## 🚀 About Me
 
