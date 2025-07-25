@@ -31,13 +31,13 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 
 <!-- Dynamic GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Shalom's stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide=procfile" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalomhosheya&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Shalom's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomhosheya&layout=compact&langs_count=8&theme=radical&hide=procfile" alt="Top languages" />
 </div>
 
 <!-- Accurate commit streak with timezone support -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia/Jerusalem" alt="Commit streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shalomhosheya&theme=radical&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia/Jerusalem" alt="Commit streak" />
 </div>
 
 ## 🌟 My Contributions
