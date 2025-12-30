@@ -27,6 +27,11 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shalomhosheya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+
 ## 📊 GitHub Analytics
 
 <!-- Dynamic GitHub Stats -->
