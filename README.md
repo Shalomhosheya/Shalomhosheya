@@ -32,17 +32,11 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 <!-- Dynamic GitHub Stats -->
 <p align="center">
   <a href="https://github.com/Shalomhosheya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shalomhosheya&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalomhosheya&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shalomhosheya&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&text_color=E5E7EB"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalomhosheya&layout=compact&langs_count=8&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB"/>
   </a>
 </p>
 
-
-
-<!-- Accurate commit streak with timezone support -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shalomhosheya&theme=radical&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia/Jerusalem" alt="Commit streak" />
-</div>
 
 ## 🌟 My Contributions
 
