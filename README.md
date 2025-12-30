@@ -32,10 +32,11 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 <!-- Dynamic GitHub Stats -->
 <p align="center">
   <a href="https://github.com/Shalomhosheya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shalomhosheya&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&text_color=E5E7EB"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalomhosheya&layout=compact&langs_count=8&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shalomhosheya&show_icons=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22C55E&icon_color=4ADE80&text_color=DCFCE7"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shalomhosheya&layout=compact&langs_count=8&bg_color=020617&title_color=22C55E&text_color=DCFCE7"/>
   </a>
 </p>
+
 
 
 ## 🌟 My Contributions
