@@ -30,10 +30,12 @@ I'm an enthusiastic software engineering student with expertise in both frontend
 ## 📊 GitHub Analytics
 
 <!-- Dynamic GitHub Stats -->
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalomhosheya&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Shalom's stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomhosheya&layout=compact&langs_count=8&theme=radical&hide=procfile" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalomhosheya&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomhosheya&layout=compact&langs_count=8&theme=radical&hide=procfile,html,css,xml,shell&cache_seconds=1800" />
 </div>
+
 
 <!-- Accurate commit streak with timezone support -->
 <div align="center">
